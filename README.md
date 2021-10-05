@@ -1,1 +1,1 @@
-# Medical-Insurance-Prediction
+# Medical Insurance Premium Prediction
