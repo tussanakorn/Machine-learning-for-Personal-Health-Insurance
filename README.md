@@ -2,6 +2,12 @@
 
 ## Final project : หลักสูตรบัณฑิตพันธ์ใหม่ (Non-degree) Machine learning decision support for business problem มหาวิทยาลัยหอการค้าไทย
 
+Contributors :
+- [@tussanakorn](https://github.com/tussanakorn)
+- [@Trirat2543](https://github.com/Trirat2543)
+- Chinnapat
+
+
 ### Machine Learning Project LifeCycle  
 credit : Code The Brain
 
