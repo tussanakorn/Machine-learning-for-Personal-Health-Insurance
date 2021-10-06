@@ -2,7 +2,7 @@
 
 ## Final project : หลักสูตรบัณฑิตพันธ์ใหม่ (Non-degree) Machine learning decision support for business problem มหาวิทยาลัยหอการค้าไทย
 
-## Read full : 
+## Read full : [Final-Exam-UTCC](Final-Exam-UTCC.pdf)
 
 Contributors :
 - [@tussanakorn](https://github.com/tussanakorn)
@@ -20,6 +20,7 @@ credit : Code The Brain
 ![uWSkQS.png](https://sv1.picz.in.th/images/2021/10/06/uWSkQS.png)
 
 Data from Kaggle >> https://www.kaggle.com/tejashvi14/medical-insurance-premium-prediction
+
 Medical Insurance Premium Prediction : เป็นข้อมูลลูกค้าจำนวน 1000 รายจากบริษัทประกันภัยแห่งหนึ่ง 
 
 ### Review Result From KNIME Program
