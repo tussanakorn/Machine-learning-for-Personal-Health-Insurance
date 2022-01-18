@@ -7,7 +7,7 @@
 Contributors :
 - [@tussanakorn](https://github.com/tussanakorn)
 - [@Trirat2543](https://github.com/Trirat2543)
-- Chinnapat
+- [@Chinnapat](https://github.com/octsy)
 
 ### Project objectives
 1. เพื่อออกแบบระบบที่สามารถคำนวณเบี้ยประกันที่เหมาะสมให้แก่ลูกค้าในแต่ละคนได้ 
