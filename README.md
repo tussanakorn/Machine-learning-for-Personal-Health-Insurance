@@ -40,7 +40,7 @@ Link Digital Dashboard : https://app.powerbi.com/view?r=eyJrIjoiMzY0NDU2NjEtNjE3
 หลังจากสร้างโมเดลแล้ว เราก็นำโมเดลไป deploy แล้วนำมาต่อแชทบอท เพื่อใช้ในการ Predictive
 
 ### Chatbot 
-[![uWVDH9.png](https://sv1.picz.in.th/images/2021/10/06/uWVDH9.png)](https://www.picz.in.th/image/uWVDH9)
+![image](https://user-images.githubusercontent.com/80860852/165625429-67920e5a-ce6c-4bc9-bbd7-53255602cdb9.png)
 [![uWVoqD.md.png](https://sv1.picz.in.th/images/2021/10/06/uWVoqD.md.png)](https://www.picz.in.th/image/uWVoqD)
 [![uWVP7J.png](https://sv1.picz.in.th/images/2021/10/06/uWVP7J.png)](https://www.picz.in.th/image/uWVP7J)
 
