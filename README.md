@@ -1,4 +1,4 @@
-# Medical Insurance Premium Prediction
+# Machine learning for Personal Health Insurance
 
 ## Final project : หลักสูตรบัณฑิตพันธ์ใหม่ (Non-degree) Machine learning decision support for business problem มหาวิทยาลัยหอการค้าไทย
 
